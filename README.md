@@ -1,0 +1,3 @@
+- 👋 Hi, I’m 0hBan
+- 👀 I’m interested in sports
+- 🌱 I’m currently learning Python
